@@ -1,0 +1,44 @@
+/Users/rezzayazme/Projects/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csprojAssemblyReference.cache
+/Users/rezzayazme/Projects/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csproj.CoreCompileInputs.cache
+/Users/rezzayazme/Projects/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfoInputs.cache
+/Users/rezzayazme/Projects/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfo.cs
+/Users/rezzayazme/Projects/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.deps.json
+/Users/rezzayazme/Projects/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.json
+/Users/rezzayazme/Projects/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.dev.json
+/Users/rezzayazme/Projects/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.dll
+/Users/rezzayazme/Projects/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/rezzayazme/Projects/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.dll
+/Users/rezzayazme/Projects/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.deps.json
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.json
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.dev.json
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.dll
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csprojAssemblyReference.cache
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csproj.CoreCompileInputs.cache
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfoInputs.cache
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfo.cs
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.dll
+/Users/rezzayazme/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/yassermeza/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.deps.json
+/Users/yassermeza/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.json
+/Users/yassermeza/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.dev.json
+/Users/yassermeza/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.dll
+/Users/yassermeza/Desktop/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/yassermeza/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csprojAssemblyReference.cache
+/Users/yassermeza/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csproj.CoreCompileInputs.cache
+/Users/yassermeza/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfoInputs.cache
+/Users/yassermeza/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfo.cs
+/Users/yassermeza/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.dll
+/Users/yassermeza/Desktop/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.deps.json
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.json
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.runtimeconfig.dev.json
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.dll
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/bin/Debug/netcoreapp2.1/CRAPS.pdb
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csprojAssemblyReference.cache
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.csproj.CoreCompileInputs.cache
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfoInputs.cache
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.AssemblyInfo.cs
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.dll
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CRAPS/CRAPS/obj/Debug/netcoreapp2.1/CRAPS.pdb
